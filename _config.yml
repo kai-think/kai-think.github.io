@@ -1,10 +1,10 @@
 # Site settings
-title: 梧桐 Blog
-SEOTitle: 梧桐的博客 | WT Blog
+title: LY Blog
+SEOTitle: LY的博客 | WT Blog
 header-img: img/post-bg-desk.jpg
 email: zhangkai.think@gmail.com
 description: "Every failure is leading towards success."
-keyword: "梧桐, WUTONG Blog, 梧桐的博客, wutong, 梧桐, JAVA, GO, iPhone"
+keyword: "LY, WUTONG Blog, LY的博客, wutong, LY, JAVA, GO, iPhone"
 url: "https://kai-think.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/kai-think/kai-think.github.io.git" # you code repository
