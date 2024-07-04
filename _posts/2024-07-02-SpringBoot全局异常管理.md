@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      线程池
-subtitle:   线程池的使用
+title:      SpringBoot全局异常管理
+subtitle:   SpringBoot全局异常管理
 date:       2024-06-25
 author:     KAI
 header-img: img/wallhaven-l8vp7y.jpg
@@ -10,7 +10,7 @@ tags:
     - SpringBoot
     - 异常处理
 ---
->全局异常处理
+>SpringBoot全局异常管理
 # SpringBoot全局异常管理
 
 ### 异常的处理逻辑
